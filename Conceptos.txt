@@ -59,3 +59,4 @@ Ahora que entiendes en qué consiste el control de versiones, qué es Git y por 
 Prueba este tutorial interactivo.
 
 Comienza ahora
+Documento Juan 002-Ticket
