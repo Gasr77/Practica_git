@@ -61,3 +61,6 @@ Prueba este tutorial interactivo.
 Comienza ahora
 Documento Juan 002-Ticket
 Soy un Pro en GIT
+Documento de produccion. Gabriel Conflicto
+ocumento Juan 002-Ticket
+001-Ticket - Pero Git es lo mejor
